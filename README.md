@@ -8,7 +8,7 @@
 ## 下载地址
 
 - [ownCloud](https://light.dattodrive.com/index.php/s/exSSWFRV3XaIK6f)
-- [Github release](https://github.com/unozo/NEAU-Assistant/releases/download/v1.01/com.neau.assistant_v1.01.apk)
+- [Github release](https://github.com/V20Ea/Neau-Assistant/releases/download/v1.01/com.neau.assistant_v1.01.apk)
 
 ## 功能实现
 - [x] 学籍信息
@@ -22,8 +22,9 @@
 ## 开发进度
 
 ### v_1.01
-> * Forked from [jin123d/URP](https://github.com/jin123d/URP)
+> * Forked from [jin123d/URP](https://github.com/jin123d/URP)，THANKS for him！
 > * 适配东农教务处接口
+> * 增加考务信息功能
 
 ---
 ### v_1.0
